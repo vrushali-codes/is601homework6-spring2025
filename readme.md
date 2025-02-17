@@ -1,11 +1,7 @@
-# Homework 3
+# Homework 4
 
-## Implementation Details
+## Overview
 
-- Implemented addition, subtraction, multiplication, and division.
-- Exception handling for division by zero is implemented and tested.
-- Correct use of static, class, and instance methods throughout the code.
-- A `Calculation` class is implemented that stores arithmetic operations in an instance property.
-- Calculation history is maintained by storing instances of calculations.
-- Convenience methods in the `Calculation` class manage the calculation history effectively.
-- Parameterized test data is utilized for testing.
+- Generating fake data using the `Faker` library.
+- Creating test data for unit testing purposes.
+- Implementing user input handling for calculator operations.
